@@ -1,19 +1,37 @@
 🚀 How to Run the Project
+
 1. Install Flutter
+   
 https://docs.flutter.dev/get-started/install
-Verify installation:
+
+2.Verify installation:
+
 flutter doctor
-2. Clone this repository
-git clone https://github.com/YOUR_USERNAME/skill_seeker_app.git
+
+3. Clone this repository
+
+git clone https://github.com/a-n-d-r-ess/skill_seeker_app.git
+
 cd skill_seeker_app
-3. Install dependencies
+
+4. Install dependencies
+
 flutter pub get
-4. Start a device
+
+6. Start a device
+
 iOS Simulator (macOS)
+
 open -a Simulator
+
 Android Emulator
+
 Open Android Studio → Device Manager → Start Emulator
+
 or:
+
 flutter emulators --launch emulator-5554
-5. Run the app
+
+8. Run the app
+
 flutter run
